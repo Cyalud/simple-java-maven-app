@@ -14,7 +14,4 @@ pipeline {
     }
 
   }
-  environment {
-    JAVA_HOME = '/app/jdk11'
-  }
 }
